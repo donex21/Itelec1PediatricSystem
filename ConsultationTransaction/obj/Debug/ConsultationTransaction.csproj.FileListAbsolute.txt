@@ -1,0 +1,9 @@
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\bin\Debug\ConsultationTransaction.exe.config
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\bin\Debug\ConsultationTransaction.exe
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\bin\Debug\ConsultationTransaction.pdb
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\ConsultationTransaction.csprojResolveAssemblyReference.cache
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\ConsultationTransaction.Form1.resources
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\ConsultationTransaction.Properties.Resources.resources
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\ConsultationTransaction.csproj.GenerateResource.Cache
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\ConsultationTransaction.exe
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\ConsultationTransaction.pdb

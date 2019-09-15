@@ -1,0 +1,49 @@
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\bin\Debug\ConsultationTransaction.exe.config
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\bin\Debug\ConsultationTransaction.exe
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\bin\Debug\ConsultationTransaction.pdb
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\PediatricClinicalSystem.csprojResolveAssemblyReference.cache
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\ConsultationTransaction.ConsultationTransaction.resources
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\ConsultationTransaction.Immunization.resources
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\ConsultationTransaction.Prescription.resources
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\ConsultationTransaction.Properties.Resources.resources
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\PediatricClinicalSystem.csproj.GenerateResource.Cache
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\ConsultationTransaction.exe
+D:\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\ConsultationTransaction\obj\Debug\ConsultationTransaction.pdb
+D:\PEDIATRIC CLINICAL SYSTEM\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\bin\Debug\ConsultationTransaction.exe.config
+D:\PEDIATRIC CLINICAL SYSTEM\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\ConsultationTransaction.exe
+D:\PEDIATRIC CLINICAL SYSTEM\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\ConsultationTransaction.pdb
+D:\PEDIATRIC CLINICAL SYSTEM\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\bin\Debug\ConsultationTransaction.exe
+D:\PEDIATRIC CLINICAL SYSTEM\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\bin\Debug\ConsultationTransaction.pdb
+D:\PEDIATRIC CLINICAL SYSTEM\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PediatricClinicalSystem.csprojResolveAssemblyReference.cache
+D:\PEDIATRIC CLINICAL SYSTEM\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\ConsultationTransaction.ConsultationTransaction.resources
+D:\PEDIATRIC CLINICAL SYSTEM\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\ConsultationTransaction.Immunization.resources
+D:\PEDIATRIC CLINICAL SYSTEM\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\ConsultationTransaction.Prescription.resources
+D:\PEDIATRIC CLINICAL SYSTEM\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\ConsultationTransaction.Properties.Resources.resources
+D:\PEDIATRIC CLINICAL SYSTEM\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PediatricClinicalSystem.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PediatricClinicalSystem.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PediatricClinicalSystem.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\bin\Debug\PEDIATRICCLINICALSYSTEM.exe.config
+C:\Users\Admin\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\bin\Debug\PEDIATRICCLINICALSYSTEM.exe
+C:\Users\Admin\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\bin\Debug\PEDIATRICCLINICALSYSTEM.pdb
+C:\Users\Admin\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.ConsultationTransaction.resources
+C:\Users\Admin\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.Home.resources
+C:\Users\Admin\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.Immunization.resources
+C:\Users\Admin\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.Prescription.resources
+C:\Users\Admin\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.Properties.Resources.resources
+C:\Users\Admin\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.exe
+C:\Users\Admin\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.pdb
+F:\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\bin\Debug\PEDIATRICCLINICALSYSTEM.exe.config
+F:\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.exe
+F:\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.pdb
+C:\Users\Donil Ponce\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\bin\Debug\PEDIATRICCLINICALSYSTEM.exe.config
+C:\Users\Donil Ponce\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.exe
+C:\Users\Donil Ponce\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.pdb
+C:\Users\Donil Ponce\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\bin\Debug\PEDIATRICCLINICALSYSTEM.exe
+C:\Users\Donil Ponce\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\bin\Debug\PEDIATRICCLINICALSYSTEM.pdb
+C:\Users\Donil Ponce\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\Donil Ponce\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.ConsultationTransaction.resources
+C:\Users\Donil Ponce\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.Home.resources
+C:\Users\Donil Ponce\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.Immunization.resources
+C:\Users\Donil Ponce\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.Prescription.resources
+C:\Users\Donil Ponce\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.Properties.Resources.resources
+C:\Users\Donil Ponce\Desktop\DonilPonceItelec1\PEDIATRIC CLINICAL SYSTEM\ConsultationTransaction\obj\Debug\PEDIATRICCLINICALSYSTEM.csproj.GenerateResource.Cache
